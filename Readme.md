@@ -19,4 +19,3 @@ Break the overall project into features
 Take care of UX and UI: Build wireframes
 You may deploy your product on the cloud using Github Pages. Original 2048 game was actually hosted on Github Pages.
 Guide
-Click here to watch milestone guide
